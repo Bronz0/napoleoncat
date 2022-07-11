@@ -1,1 +1,1 @@
-# Napoleoncat stats scraping
+# Napoleoncat stats scraping (all countries)
